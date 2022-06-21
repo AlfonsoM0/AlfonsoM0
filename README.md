@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
+- 🌱 I’m currently learning **React Native with Typescript**
+
 - 📫 How to reach me **montesdeoca.alfonso.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alfonsomontesdeoca/](https://www.linkedin.com/in/alfonsomontesdeoca/)
+
+- ⚡ Fun fact **I have a good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
