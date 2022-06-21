@@ -10,13 +10,12 @@ If you are looking for a person with ease for:
 - ✔ Analyze situations or data to find creative solutions.
 - ✔ Understand about business and information technologies.
 
-
-- 🌱 I’m currently learning **React Native with Typescript**
-
-- 📫 How to reach me **montesdeoca.alfonso.dev@gmail.com**
-
+I look forward to your contact.
+- 📧 Email: montesdeoca.alfonso.dev@gmail.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/alfonsomontesdeoca/](https://www.linkedin.com/in/alfonsomontesdeoca/)
 
+More about me.
+- 🌱 I’m currently learning **React Native with Typescript**
 - ⚡ Fun fact **I have a good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
