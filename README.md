@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
+I am a web developer, and an experienced business administrator. I am a sociable, creative and analytical person who values honesty, trust and respect.
+
+If you are looking for a person with ease for:
+✔ Communicate or teach complex ideas.
+✔ Plan, organize, direct and control projects.
+✔ Develop codes of complex logics in backend and frontend.
+✔ Analyze situations or data to find creative solutions.
+✔ Understand about business and information technologies.
+
+
 - 🌱 I’m currently learning **React Native with Typescript**
 
 - 📫 How to reach me **montesdeoca.alfonso.dev@gmail.com**
