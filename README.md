@@ -4,6 +4,7 @@
 I am a web developer, and an experienced business administrator. I am a sociable, creative and analytical person who values honesty, trust and respect.
 
 If you are looking for a person with ease for:
+
 - ✔ Communicate or teach complex ideas.
 - ✔ Plan, organize, direct and control projects.
 - ✔ Develop codes of complex logics in backend and frontend.
@@ -11,10 +12,13 @@ If you are looking for a person with ease for:
 - ✔ Understand about business and information technologies.
 
 I look forward to your contact.
+
 - 📧 Email: montesdeoca.alfonso.dev@gmail.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/alfonsomontesdeoca/](https://www.linkedin.com/in/alfonsomontesdeoca/)
+- 🌐 Know about me [https://alfonso.ar/](https://alfonso.ar/)
 
 More about me.
+
 - 🌱 I’m currently learning **React Native with Typescript**
 - ⚡ Fun fact **I have a good sense of humor**
 
