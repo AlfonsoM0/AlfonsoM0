@@ -22,6 +22,9 @@ More about me.
 - 🌱 I’m currently learning **React Native with Typescript**
 - ⚡ Fun fact **I have a good sense of humor**
 
+Important Note
+- ❗My activity on this account does not reflect my work in private repositories.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alfonsomontesdeoca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfonsomontesdeoca" height="30" width="40" /></a>
